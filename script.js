@@ -1,4 +1,6 @@
-alert(uTurn());
+function main(){
+    alert(uTurn());
+}
 
 function uTurn() {
     let choice = prompt("enter r, p, or s");
